@@ -1,0 +1,12 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    margin-right: 5px;
+}
+.product-list h1{
+    color: blue;
+    font-size: 20px;
+}
+.product-list{
+    margin: 20px;
+}
